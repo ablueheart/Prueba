@@ -4,3 +4,6 @@ Soy Adrian Traslaviña y tengo 21 años.
 En realidad tendre 21 años el proximo año, y espero comenzar la universidad y tener un pase de conducción.
 
 Naci en Santander, Colombia.
+
+Datos personales:
+Mido 1.70 metros, peso 50 kilos, tengo 20 años y estoy aprendiendo git y git hub un 24 de diciembre, increible.
