@@ -9,3 +9,5 @@ Datos personales:
 Mido 1.70 metros, peso 50 kilos, tengo 20 años y estoy aprendiendo git y git hub un 24 de diciembre, increible.
 
 Cambios para que al hacer pull ver si me sirvieron las clases de Freddy Vega.
+
+Cambios para que al hacer push ver si me sirvieron las clases de Freddy Vega.
